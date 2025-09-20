@@ -63,6 +63,7 @@ $ git submodule update --init --recursive   # Required for abc
 $ make
 $ sudo make install
 ```
+https://github.com/Shreyasilver22/Shreyas_Singh_RISC_V_Tapeout_PROGRAM_VSD_silver/blob/main/week%200/images/yosys.png?raw=true
 
 ---
 ## ✅ Tool Check
@@ -77,7 +78,5 @@ $ sudo make install
 
 Special thanks to **Kunal Ghosh** and the **VLSI System Design (VSD) team** for creating this initiative, and to **RISC-V International, ISM, VSI, and Efabless** for supporting India’s largest open-source **SoC Tapeout Program**.
 
----
 
-Do you also want me to **add screenshots placeholders (like “Alt Text” sections)** so you can attach images of successful installations in your README?
 
