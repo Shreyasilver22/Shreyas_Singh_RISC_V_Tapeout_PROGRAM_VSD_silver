@@ -30,7 +30,19 @@ $ ./autorun.sh
 
 ## 🔧 Tool Installation
 
-### 1️⃣ Yosys (Logic Synthesis Tool)
+
+### 1. Icarus Verilog (Simulation Tool)
+$ sudo apt-get update
+$ sudo apt-get install iverilog
+https://github.com/Shreyasilver22/Shreyas_Singh_RISC_V_Tapeout_PROGRAM_VSD_silver/blob/1e41cbc504a47b88bbf0bab39e35491737d08457/week%200/images/gtkwave.png
+
+### 2. GTKWave (Waveform Viewer)
+$ sudo apt-get update
+$ sudo apt install gtkwave
+https://github.com/Shreyasilver22/Shreyas_Singh_RISC_V_Tapeout_PROGRAM_VSD_silver/blob/2876dc04f7784e488337f7c1c1a805decdb1ee04/week%200/images/gtkwave.png
+
+
+### 3. Yosys (Logic Synthesis Tool)
 
 ```bash
 # Update and install dependencies
@@ -53,15 +65,6 @@ $ sudo make install
 ```
 
 ---
-
-### 2️⃣ Icarus Verilog (Simulation Tool)
-
-
-
-### 3️⃣ GTKWave (Waveform Viewer)
-
-https://github.com/Shreyasilver22/Shreyas_Singh_RISC_V_Tapeout_PROGRAM_VSD_silver/blob/2876dc04f7784e488337f7c1c1a805decdb1ee04/week%200/images/gtkwave.png
-
 ## ✅ Tool Check
 
 * `yosys` → should open the yosys shell.
